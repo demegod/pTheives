@@ -1,0 +1,10 @@
+body {
+	background: #FF0401;
+}
+img {
+	display: block;
+	margin: auto;
+	margin-top: 20%;
+	max-width: 100%;
+	height: auto;
+}
